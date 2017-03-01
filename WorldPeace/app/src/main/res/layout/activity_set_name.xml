@@ -1,0 +1,54 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:orientation="vertical"
+    tools:context="android.comps413f.worldpeace.SetName">
+
+    <android.widget.Space
+        android:layout_width="20dp"
+        android:layout_height="20dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Revised player 1 name"
+        android:id="@+id/text1" />
+
+    <EditText
+        android:id="@+id/namePlayer1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        />
+    <android.widget.Space
+        android:layout_width="30dp"
+        android:layout_height="30dp" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Revised player 2 name"
+        android:id="@+id/text2" />
+
+    <EditText
+        android:id="@+id/namePlayer2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        />
+    <android.widget.Space
+        android:layout_width="20dp"
+        android:layout_height="20dp" />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Save"
+        android:id="@+id/buttonSave"
+        android:layout_gravity="center_horizontal" />
+
+</LinearLayout>
+
+

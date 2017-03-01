@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">WorldPeace</string>
+    <string name="game_pause">Pause</string>
+    <string name="about">About</string>
+    <string name="setting">Setting</string>
+    <string name="sound">Sound</string>
+    <string name="about_title">World Peace</string>
+    <string name="about_msg">This game is created by Crystal, Calvin, Leo, Vico\n2016 Copyright Reserved</string>
+    <string name="title_activity_start_page">StartPage</string>
+    
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_set_name">SetName</string>
+    <string name="restart">Restart</string>
+    <string name="pleaseChooseDest">Please choose destination</string>
+    <string name="pleaseChooseYourCannon">Please choose the YOUR cannons</string>
+    <string name="vibrate">Vibrate</string>
+    <string name="addDefenseAfterFlagOrCastleDestroyed">You cannot add defense net after flag/castle is broken</string>
+    <string name="addDefenceMax">The maximum defense net are 2</string>
+
+
+</resources>
